@@ -1,0 +1,2 @@
+name is NZAYISENGA Thadee
+This repository is part of my learning journey to understand GitHub repositories, files, and version control.
